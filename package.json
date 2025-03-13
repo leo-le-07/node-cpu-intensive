@@ -1,0 +1,20 @@
+{
+  "name": "node-cpu-intensive",
+  "version": "1.0.0",
+  "description": "Demonstration of different strategies for handling CPU-intensive tasks in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "cpu-intensive",
+    "worker-threads",
+    "cluster",
+    "child-process",
+    "performance"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
